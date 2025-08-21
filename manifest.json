@@ -1,9 +1,12 @@
 {
-  "id": "/",
+  "id": "/pwa-sqlite-demo/",
   "name": "SQLite PWA Demo",
   "short_name": "PWA Demo",
+  "description": "A demo Progressive Web App using SQLite in the browser.",
   "start_url": "/pwa-sqlite-demo/",
+  "scope": "/pwa-sqlite-demo/",
   "display": "standalone",
+  "orientation": "any",
   "background_color": "#ffffff",
   "theme_color": "#2196f3",
   "icons": [
