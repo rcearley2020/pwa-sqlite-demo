@@ -2,7 +2,7 @@
   "id": "/",
   "name": "SQLite PWA Demo",
   "short_name": "PWA Demo",
-  "start_url": "./index.html",
+  "start_url": "/pwa-sqlite-demo/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2196f3",
